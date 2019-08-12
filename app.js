@@ -22,7 +22,7 @@ function Multiplicacion(a, b) {
 function Division(a, b) {
     return a / b;
 }
-
+//delegacion de eventos
 teclado.addEventListener("click", (i) => {
     const key = i.target;
     const keyContent = key.textContent;

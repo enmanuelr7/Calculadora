@@ -1,0 +1,23 @@
+{
+  "name": "enmanuel-calculadora",
+  "version": "1.0.0",
+  "description": "calculadora de prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmanuelr7/Calculadora.git"
+  },
+  "author": "Enmanuel Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enmanuelr7/Calculadora/issues"
+  },
+  "homepage": "https://github.com/enmanuelr7/Calculadora#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "sass": "^1.22.9"
+  }
+}
