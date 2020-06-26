@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/enmanuelr7/Calculadora#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "sass": "^1.22.9"
   }
 }
